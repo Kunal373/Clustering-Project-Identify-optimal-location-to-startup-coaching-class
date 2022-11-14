@@ -1,5 +1,5 @@
 # Clustering-Project-Identify-optimal-location-to-startup-coaching-class-
-To identify best possible locations in an particular area in Mumbai to startup new or open new branch of coaching class in Mumbai
+To identify best possible locations in an particular area in Mumbai to startup new or open new branch of coaching class in Mumbai. Coaching classes for shool going and junior college(11th and 12th).
 
 In this project we will try to find an optimal location to startup Tuition Classes or franchise of existing Classes. This analysis will be targeted to stakeholders interested in opening a private Tuition Classes or management of existing Classes to expand their business & revenue by opening new branch/franchise in Mumbai.
 Using Data science powers to generate a few most promising Area based clusters so that best possible final location can be chosen by stakeholders.
